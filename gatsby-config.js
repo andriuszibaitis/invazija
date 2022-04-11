@@ -6,7 +6,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "http://www.gatsby.lt",
+    siteUrl: "http://gatsby.lt",
     title: "Gatsby WordPress Homepage Starter",
     author: `Gatsby`,
     description: "A Gatsby Starter for building homepages with WordPress",
