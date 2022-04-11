@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: "http://www.gatsby.lt/graphql",
+        url: process.env.WPGRAPHQL_URL,
       },
     },
     "gatsby-plugin-fontawesome-css",
