@@ -360,3 +360,4 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 "# svaros-invazija" 
 "# svaros-invazija" 
 "# svarosinvazija-gatsby" 
+"# svarosinvazija" 
