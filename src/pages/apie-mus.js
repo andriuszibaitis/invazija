@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, Component } from "react"
+import React, { useRef, useEffect } from "react"
 import Layout from "../components/layout"
 import { Container, Box, Heading } from "../components/ui"
 import { Row, Col } from "react-bootstrap"

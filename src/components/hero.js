@@ -4,7 +4,6 @@ import * as React from "react"
 import {
   Box,
   Space,
-  ButtonList,
   Container,
   Flex,
   Heading,
@@ -14,7 +13,7 @@ import {
   Text,
 } from "./ui"
 
-import { Button, Row, Col } from "react-bootstrap"
+import { Button } from "react-bootstrap"
 import styled from "styled-components"
 
 import SvarosInvazija from "../animations/svarosinvazija.json"

@@ -31,7 +31,7 @@ const Cf7FormWrapper = ({ children, siteUrl, formId, url }) => {
 
   const apiUrl =
     url ||
-    `${siteUrl}/wp-json/contact-form-7/v1/contact-forms/${formId}/feedback/`
+    `http://www.svarosinvazija.local/wp-json/contact-form-7/v1/contact-forms/275/feedback/`
 
   const formSubmitHandler = (event, payload) => {
     event.preventDefault()
